@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lesson text="第  1  课" translate="第  1  课" url="Lesson01-title" start="00:00.0" end="00:01.5">
+    
+    <words text="ことば" translate="单词" url="Lesson01-word" start="00:01.4" end="00:03.0">
+        <word id="1" text="わたし" translate="我" start="00:03.0" end="00:04.6"/>
+        <word id="2" text="あなた" translate="你、您" start="00:04.6" end="00:06.2"/>
+        <word id="3" text="あの ひと|（あの かた）" kana="あの 人|（あの 方）" translate="||他、她、那个人" start="00:06.2" end="00:09.6"/>
+        <word id="4" text="～さん" translate="先生、女士、同志" start="00:09.8" end="00:11.3"/>
+        <word id="5" text="～ちゃん" translate="(接在小孩名字后面的接尾词)" start="00:11.3" end="00:12.8"/>
+        <word id="6" text="～じん" kana="～人" translate="～人" start="00:12.8" end="00:14.4"/>
+        <word id="7" text="せんせい" kana="先生" translate="老师" start="00:14.4" end="00:16.2"/>
+        <word id="8" text="きょうし" kana="教師" translate="教师" start="00:16.2" end="00:17.8"/>
+        <word id="9" text="がくせい" kana="学生" translate="学生" start="00:17.8" end="00:19.6"/>
+        <word id="10" text="かいしゃいん" kana="会社員" translate="公司职员" start="00:19.6" end="00:21.4"/>
+        <word id="11" text="しゃいん" kana="社員" translate="～公司职员" start="00:21.4" end="00:23.0"/>
+        <word id="12" text="ぎんこういん" kana="銀行員" translate="银行行员" start="00:23.0" end="00:25.0"/>
+        <word id="13" text="いしゃ" kana="医者" translate="医生" start="00:25.0" end="00:26.4"/>
+        <word id="14" text="けんきゅうしゃ" kana="研究者" translate="研究人员" start="00:26.5" end="00:28.2"/>
+        <word id="15" text="だいがく" kana="大学" translate="大学" start="00:28.3" end="00:30.0"/>
+        <word id="16" text="びょういん" kana="病院" translate="医院" start="00:30.1" end="00:31.7"/>
+        <word id="17" text="だれ（どなた）" translate="谁(哪位)" start="00:31.8" end="00:35.0"/>
+        <word id="18" text="…さい" kana="…歳" translate="…岁" start="00:35.1" end="00:36.4"/>
+        <word id="19" text="なんさい（おいくつ）" kana="|何歳" translate="|几岁(多大岁数)" start="00:36.4" end="00:39.8"/>
+        <word id="20" text="はい" translate="是、对" start="00:39.8" end="00:41.3"/>
+        <word id="21" text="いいえ" translate="不、不是" start="00:41.3" end="00:42.8"/>
+        <word id="22" text="初(はじ)めまして。" translate="初次见面。" start="00:46.0" end="00:47.9"/>
+        <word id="23" text="～から 来(き)ました。" translate="是从～來的。" start="00:47.9" end="00:49.8"/>
+        <word id="24" text="[どうぞ] よろしく|[お願(ねが)いします]。" translate="请多关照。" start="00:49.8" end="00:52.4"/>
+        <word id="25" text="失礼(しつれい)ですが" translate="对不起、请问" start="00:52.4" end="00:54.4"/>
+        <word id="26" text="お名前(なまえ)は？" translate="|您贵姓？您叫什么名字？" start="00:54.4" end="00:56.2"/>
+        <word id="27" text="こちらは ～さんです。" translate="这位是～。" start="00:56.3" end="00:59.4"/>
+        <word id="28" text="アメリカ" translate="美国" start="01:00.3" end="01:02.0"/>
+        <word id="29" text="イギリス" translate="英国" start="01:02.0" end="01:03.7"/>
+        <word id="30" text="インド" translate="印度" start="01:03.7" end="01:05.4"/>
+        <word id="31" text="インドネシア" translate="印度尼西亚、印尼" start="01:05.4" end="01:07.3"/>
+        <word id="32" text="韓国(かんこく)" translate="韩国" start="01:07.3" end="01:09.0"/>
+        <word id="33" text="タイ" translate="泰国" start="01:09.0" end="01:10.4"/>
+        <word id="34" text="中国(ちゅうごく)" translate="中国" start="01:10.4" end="01:12.2"/>
+        <word id="35" text="ドイツ" translate="德国" start="01:12.2" end="01:13.8"/>
+        <word id="36" text="日本(にほん)" translate="日本" start="01:13.9" end="01:15.4"/>
+        <word id="37" text="ブラジル" translate="巴西" start="01:15.4" end="01:17.1"/>
+        <word id="38" text="IMC|パワー電気(でんき)|ブラジルエアー" translate="(虚构的公司)" start="01:17.1" end="01:23.2"/>
+        <word id="39" text="AKC" translate="(虚构的机关)" start="01:23.2" end="01:25.2"/>
+        <word id="40" text="神戸病院(こうべびょういん)" translate="(虚构的医院)" start="01:25.2" end="01:27.2"/>
+        <word id="41" text="さくら大学(だいがく)|富士大学(ふじだいがく)" translate="(虚构的大学)" start="01:27.2" end="01:31.2"/>
+    </words>
+    
+    <sentences text="文型" kana="ぶん  けい" translate="句型" url="Lesson01-sentence" start="00:01.6" end="00:03.0">
+        <sentence id="1" text="わたしは  マイク・ミラーです。" translate="我是迈克・米勒。" index="00:03.3" start="00:04.8" end="00:07.6"/>
+        <sentence id="2" text="サントスさんは  学生(がくせい)じゃ（では）  ありません。" translate="桑托斯不是学生。" index="00:08.3" start="00:09.7" end="00:12.6"/>
+        <sentence id="3" text="ミラーさんは  会社員(かいしゃいん)ですか。" translate="米勒是公司职员吗？" index="00:13.7" start="00:15.1" end="00:17.8"/>
+        <sentence id="4" text="サントスさんも  会社員(かいしゃいん)です。" translate="桑托斯也是公司职员。" index="00:18.8" start="00:20.2" end="00:22.8"/>
+    </sentences>
+    
+    <dialogs text="例文" kana="れい ぶん" translate="例句" url="Lesson01-dialog" start="00:01.3" end="00:03.0">
+        <dialog id="1" start="00:03.0" end="00:08.8">
+            <pattern text="[あなたは]  マイク・ミラーさんですか。" translate="你是迈克・米勒先生吗？" start="00:04.5" end="00:06.5"/>
+            <pattern text="…はい、[わたしは]  マイク・ミラーです。" translate="…是的，我是迈克・米勒。" start="00:06.5" end="00:08.8"/>
+        </dialog>
+        <dialog id="2" start="00:09.9" end="00:16.4">
+            <pattern text="ミラーさんは  学生(がくせい)ですか。" translate="米勒是学生吗？" start="00:11.3" end="00:13.6"/>
+            <pattern text="…いいえ、[わたしは]  学生(がくせい)じゃ  ありません。" translate="…不是，我不是学生。" start="00:13.6" end="00:16.4"/>
+        </dialog>
+        <dialog id="3" start="00:17.7" end="00:24.8">
+            <pattern text="ワンさんは  銀行員(ぎんこういん)ですか。" translate="王先生是银行行员吗？" start="00:19.1" end="00:21.3"/>
+            <pattern text="…いいえ、[ワンさんは]  銀行員(ぎんこういん)じゃ  ありません。" translate="…不是，王先生不是银行行员。" start="00:21.3" end="00:23.5"/>
+            <pattern text="   医者(いしゃ)です。" translate="   是医生。" start="00:23.5" end="00:24.8"/>
+        </dialog>
+        <dialog id="4" start="00:25.9" end="00:33.6">
+            <pattern text="あの  方(かた)は  どなたですか。" translate="那个人是谁？" start="00:27.4" end="00:29.4"/>
+            <pattern text="…ワットさんです。" translate="…他是瓦特教授，" start="00:29.4" end="00:30.9"/>
+            <pattern text="   さくら大学(だいがく)の  先生(せんせい)です。" translate="   樱花大学的老师。" start="00:30.9" end="00:33.6"/>
+        </dialog>
+        <dialog id="5" start="00:34.5" end="00:44.0">
+            <pattern text="ブプタさんは 会社員(かいしゃいん)ですか。" translate="吉普是公司职员吗？" start="00:35.9" end="00:38.2"/>
+            <pattern text="…はい、会社員(かいしゃいん)です。" translate="…对，他是公司职员。" start="00:38.2" end="00:40.0"/>
+            <pattern text="カリナさんも 会社員(かいしゃいん)ですか。" translate="卡莉娜也是公司职员吗？" start="00:40.0" end="00:42.0"/>
+            <pattern text="…いいえ。" translate="…不，" start="00:42.0" end="00:42.7"/>
+            <pattern text="   [カリナさんは]  学生(がくせい)です。" translate="   她是学生。" start="00:42.8" end="00:44.0"/>
+        </dialog>
+        <dialog id="6" start="00:45.0" end="00:50.8">
+            <pattern text="テレーザちゃんは  何歳(なんさい)ですか。" translate="特蕾娜几岁了？" start="00:46.5" end="00:48.9"/>
+            <pattern text="…9歳(さい)です。" translate="…9岁。" start="00:48.9" end="00:50.8"/>
+        </dialog>
+    </dialogs>
+    
+    <conversations text="会話" kana="かい  わ" translate="会话" url="Lesson01-conversation" start="00:01.3" end="00:02.8">
+        <title text="初(はじ)めまして" translate="初次见面" start="00:02.9" end="00:05.2"/>
+        <patterns speaker="佐藤" start="00:05.2" end="00:07.1">
+            <pattern text="おはよう  ございます。" translate="早上好。" start="00:05.2" end="00:07.1"/>
+        </patterns>
+        <patterns speaker="山田" start="00:07.1" end="00:12.5">
+            <pattern text="おはよう  ございます。" translate="早上好。" start="00:07.1" end="00:09.1"/>
+            <pattern text="佐藤(さとう)さん、こちらは  マイク・ミラーさんです。" translate="佐藤，这位是迈克・米勒。" start="00:09.1" end="00:12.5"/>
+        </patterns>
+        <patterns speaker="ミラー" start="00:12.5" end="00:18.2">
+            <pattern text="初(はじ)めまして。" translate="初次见面。" start="00:12.5" end="00:14.0"/>
+            <pattern text="マイク・ミラーです。" translate="我是迈克・米勒。" start="00:14.0" end="00:15.3"/>
+            <pattern text="アメリカから  来(き)ました。" translate="从美国来的。" start="00:15.3" end="00:17.0"/>
+            <pattern text="どうぞ  よろしく。" translate="请多多关照。" start="00:17.0" end="00:18.2"/>
+        </patterns>
+        <patterns speaker="佐藤" start="00:18.2" end="00:22.0">
+            <pattern text="佐藤(さとう)けい子(こ)です。" translate="我是佐藤桂子。" start="00:18.2" end="00:19.8"/>
+            <pattern text="どうぞ  よろしく。" translate="请多多关照。" start="00:19.8" end="00:22.0"/>
+        </patterns>
+    </conversations>
+    
+</Lesson>
